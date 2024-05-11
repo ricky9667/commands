@@ -1,4 +1,5 @@
 alias o="open"
+alias o.="open ."
 alias sz="source ~/.zshrc"
 
 # eza
@@ -17,7 +18,7 @@ alias c="code"
 
 # Python
 alias py="python3"
-alias pip="pip3"
+alias pip="uv pip"
 
 # Fuck
 eval $(thefuck --alias)

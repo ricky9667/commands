@@ -25,9 +25,10 @@ source ~/commands/android.zsh
 ### `general.zsh`
 
 - `l`: aliased to [`eza`](https://github.com/eza-community/eza)
-- `cd`: aliases to [`zoxide`](https://github.com/ajeetdsouza/zoxide?tab=readme-ov-file#getting-started)
-- `cat`: aliases to [`bat`](https://github.com/sharkdp/bat)
+- `cd`: aliased to [`zoxide`](https://github.com/ajeetdsouza/zoxide?tab=readme-ov-file#getting-started)
+- `cat`: aliased to [`bat`](https://github.com/sharkdp/bat)
 - `fuck`: command of [`thefuck`](https://github.com/nvbn/thefuck)
+- `pip`: aliased to `uv pip` of [uv](https://github.com/astral-sh/uv)
 
 ### `git.zsh`
 
