@@ -20,6 +20,3 @@ alias c="code"
 alias py="python3"
 alias pip="uv pip"
 
-# Fuck
-eval $(thefuck --alias)
-
