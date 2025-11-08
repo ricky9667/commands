@@ -20,3 +20,5 @@ alias c="code"
 alias py="python3"
 alias pip="uv pip"
 
+# wttr.in
+alias weather="curl wttr.in"
