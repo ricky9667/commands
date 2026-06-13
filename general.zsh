@@ -22,3 +22,6 @@ alias pip="uv pip"
 
 # wttr.in
 alias weather="curl wttr.in"
+
+# fastlane
+alias fastlane="bundle exec fastlane"
